@@ -1,16 +1,34 @@
-# squid_game
 
-A new Flutter project.
 
-## Getting Started
+# Squid Shop  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='45' width='45' align='top'>
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/muhd-ameen/squid-game/master/assets/images/playstore.png" alt="Banner that says  ameen">
 
-A few resources to get you started if this is your first Flutter project:
+This Application is an Enriched Ui with an Clean Architecture and Atracting Animations, Created With Provider State Managment 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Let's Start
+```console
+$ git clone 'https://github.com/muhd-ameen/squid-game
+```
+```console
+$ cd squid-game
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```console
+$ flutter run
+```
+
+## Technical:
+- Clean architecture<br>
+- JWT Auth<br>
+- Flutter, dart<br>
+ - Gps<br>
+ - Provider State Managment
+ - Rest API<br>
+ - razor pay<br>
+
+ 
+
+## Find my App 🌍:
+- Application Is Under Development, When its done we will push to PlayStore and AppStore
+ 
